@@ -16,24 +16,20 @@ Pour le pair programming, vous alternerez les rôles à chaque feature. Vous dev
 faire un repository Github public, en communiquant l’url sur Moodle.
 
 Feature 1
-
 Faire une fonction qui prend en paramètre un nom et qui répond “Hello, <nom>”. Par
 exemple, si on lui donne “bob”, elle répond “Hello, Bob” (à noter, la majuscule sur le nom).
 
 Feature 2
-
 Gestion du nul en input : si on donne une chaine de caractère vide, nulle ou blanche
 (que des espaces), alors répondre “Hello, my friend”. Par exemple, si on donne “ “ =>
 “Hello, my friend”.
 
 Feature 3
-
 Gestion des cris. Si on donne une chaîne de caractères en majuscule, alors
 répondre en majuscule. Par exemple, si on donne “JERRY”, alors répondre “HELLO, JERRY
 !”
 
 Feature 4
-
 Gestion deux noms en input. Si on donne en input 2 noms séparés par des virgules,
 alors répondre “Hello, <nom1>, <nom2>”. Par exemple, si on donne en input “Amy,bob”,
 alors répondre “Hello, Amy, Bob”
